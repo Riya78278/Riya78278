@@ -57,4 +57,12 @@
 </div>
 
 ###
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Riya78278" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya78278&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
 
