@@ -65,4 +65,8 @@
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya78278&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Riya78278&radius=16&theme=xcode&area=true&order=5" 
+  height="300" 
+  alt="activity-graph"
+/>
