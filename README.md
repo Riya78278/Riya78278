@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Riya Mondal and I'm a passionate software developer.</h2>
+<h2 align="left">Hi 👋! My name is Riya Mondal </h2>
+
+<h3 align="left">I'm a passionate Software Developer </h3>
 
 ###
 
