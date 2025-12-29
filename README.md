@@ -61,8 +61,6 @@
 
 ###
 
-##
-
 ## GitHub Activity Graph
 
 <img 
